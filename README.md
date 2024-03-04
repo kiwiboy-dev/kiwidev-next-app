@@ -1,3 +1,9 @@
+# Kiwidev Notes
+
+This is a playground using Create Next App for the purposes of trying and testing implementations of [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/) and [Aceternity UI](https://ui.aceternity.com/).
+
+# README from NextJS
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
